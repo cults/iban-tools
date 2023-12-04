@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
   ]
   s.description  = "Validates IBAN account numbers"
 
-  s.add_development_dependency "rspec", '~> 3.1'
-  s.add_development_dependency "coveralls", '~> 0.7'
+  s.add_development_dependency "rspec", '~> 3.12'
+  s.add_development_dependency "coveralls", '~> 0.8'
 end
