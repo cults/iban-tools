@@ -13,6 +13,7 @@ module IBANTools
       'BE68539007547034' => {bank_code: '539', account_number: '75470', check_digits: '34'},
       'BG80BNBG96611020345678' => {bank_code: 'BNBG', branch_code: '9661', account_type: '10', account_number: '20345678'},
       'BH67BMAG00001299123456' => {bank_code: 'BMAG', account_number: '1299123456'},
+      'BJ66BJ0610100100144390000769' => {bank_code: 'BJ', account_number: '610100100144390000769'},
       'CH9300762011623852957' => {bank_code: '762', account_number: '11623852957'},
       'CY17002001280000001200527600' => {bank_code: '2', branch_code: '128', account_number: '1200527600'},
       'CZ6508000000192000145399' => {bank_code: '800', account_prefix: '19', account_number: '2000145399'},
