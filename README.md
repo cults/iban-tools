@@ -1,3 +1,13 @@
+Added to this fork:
+
+- [Rules for Morocco (MA)](https://github.com/alphasights/iban-tools/pull/39)
+- [Rules for Guatemala (GT) and Kosovo (XK)](https://github.com/alphasights/iban-tools/pull/18)
+- [Update rules for Egypt (EG)](https://github.com/alphasights/iban-tools/pull/37)
+- [Speed up IBAN#prettify](https://github.com/alphasights/iban-tools/pull/38)
+- [Add a few countries and fix existing patterns](https://github.com/iulianu/iban-tools/pull/30)
+
+---
+
 # iban-tools
 
 iban-tools is a Ruby library for manipulating and validating IBAN account numbers. You can [read more about IBAN](http://en.wikipedia.org/wiki/International_Bank_Account_Number) on Wikipedia
@@ -34,8 +44,8 @@ iban.code # => "RO49AAAA1B31007593840000"
 iban.country_code # => "RO"
 iban.prettify # => "RO49 AAAA 1B31 0075 9384 0000"
 ```
-    
-Convert local account numbers to IBAN and back to local. 
+
+Convert local account numbers to IBAN and back to local.
 
 ```rb
 iban = IBANTools::IBAN.from_local('NO', bank_code: '9710', account_number: '1112222', check_digit: '7')
