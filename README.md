@@ -3,10 +3,10 @@
 Added to this fork:
 
 - [Rules for Morocco (MA)](https://github.com/alphasights/iban-tools/pull/39)
-- [Rules for Guatemala (GT) and Kosovo (XK)](https://github.com/alphasights/iban-tools/pull/18)
-- [Update rules for Egypt (EG)](https://github.com/alphasights/iban-tools/pull/37)
+- [Rules for Guatemala (GT) and Guatemala Kosovo (XK)](https://github.com/alphasights/iban-tools/pull/18)
+- [Updated rules for Egypt (EG)](https://github.com/alphasights/iban-tools/pull/37)
+- [Updated rules for several countries (AZ, BR, CR, EG, GT, JO, MD, PS, QA, SV, TL, VA, VG, XK)](https://github.com/iulianu/iban-tools/pull/30)
 - [Speed up IBAN#prettify](https://github.com/alphasights/iban-tools/pull/38)
-- [Add a few countries and fix existing patterns](https://github.com/iulianu/iban-tools/pull/30)
 
 ---
 
